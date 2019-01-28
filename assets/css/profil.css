@@ -1,0 +1,20 @@
+.box
+{    
+    width: 450px;     
+    height: 601px;     
+    background: rgba(0, 0, 0, 0.4);     
+    padding: 40px;     
+    text-align: center;     
+    margin: auto;     
+    color: white;     
+    font-family: 'Century Gothic',sans-serif;   
+} 
+
+.judul
+        {
+            margin-bottom: 51px;
+            font-size: larger;
+            margin-top: 35px;
+        }
+ 
+ 
